@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-p0!^g39&-xc$-s8q1g2oa&*@cnz%&8e=oohgc$$2ku4-s=#&i5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://translator-app-jwur.onrender.com']
+ALLOWED_HOSTS = ['translator-app-jwur.onrender.com']
 
 
 # Application definition
